@@ -5,7 +5,7 @@ This is a reference doc regarding how to use  -> Dropzone to upload files
 Dropzone is a React component that allows users to upload files by dragging and dropping them onto a designated area.
 
 
-Here is an example on how to use dropzone in react to upload files 
+Here is an example on how to use dropzone in react to upload files -
 
 import React, { Component } from 'react';
 import Dropzone from 'react-dropzone';
